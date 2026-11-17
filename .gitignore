@@ -1,0 +1,16 @@
+node_modules
+.netlify
+dist
+dist-ssr
+dist-single
+dist-single-build
+coverage
+*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
+npm-debug.log*
+# Never commit vault backups — they contain your encrypted credentials.
+*.passgen.json
